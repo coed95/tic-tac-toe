@@ -1,0 +1,1 @@
+Tic-Tac-Toe for The Odin Project. Don't expect AI being smart or anything.
